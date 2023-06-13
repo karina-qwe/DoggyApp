@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  Doggy
+
+  Created by Karyna Khotin on 23.05.2023.
+  
+*/
+
+"lifespan" = "Lifespan";
+"weight" = "Weight";
+"height" = "Height";
+"unit-years" = "years";
+"unit-kg" = "kg";
+"unit-cm" = "cm";
+"grooming" = "Grooming";
+"shedding" = "Shedding";
+"drooling" = "Drooling";
+"coatLength" = "Coat Length";
+"playfulness" = "Playfulness";
+"protectiveness" = "Protectiveness";
+"trainability" = "Trainability";
+"energy" = "Energy";
+"barking" = "Barking";
+"goodWithChildren" = "Friendly to Children";
+"goodWithOtherDogs" = "Friendly to Other Dogs";
+"goodWithStrangers" = "Friendly to Strangers";
